@@ -1,0 +1,1 @@
+print("M\na\nr\ni\na")
